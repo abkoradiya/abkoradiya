@@ -1,6 +1,6 @@
 ### Hi, I am Abhay 👋
 
-[![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abkoradiya&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abkoradiya&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... Android
 - 🌱 I’m currently learning ... Flutter
