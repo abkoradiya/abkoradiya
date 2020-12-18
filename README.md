@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning ... Flutter
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... abkoradiya09@gmail.com
-- 😄 Pronouns: ... He/Him
